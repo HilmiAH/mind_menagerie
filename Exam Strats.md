@@ -1,9 +1,9 @@
 General strategy/tactics:
-- Skim through the questions quickly
-- Read the question, think, re-read
+- Skim through the questions quickly.
+- Read the question, think, re-read.
 - Smash out a shitty first draft of your answer.
 - Answer using nested bullet point style because it...
-    - Simplifies your sentence structure
+    - Simplifies your sentence structure.
     - Easy to edit, in case you need to change order, made a mistake and need to rework specific parts, etc.
     - Faster
     - Easier for marker to give you part marks for what you know

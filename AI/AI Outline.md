@@ -1,8 +1,9 @@
 # AI Outline (CITS3001)
 ## Semester 1
 ### Optimization Algorithms
-### Uninformed Search
-### Informed Search
+### Search Algorithms
+#### Uninformed Search
+#### Informed Search
 ### Game Playing
 ## Semester 2
 ### Sequential Decision Problems
