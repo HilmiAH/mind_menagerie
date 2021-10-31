@@ -1,0 +1,13 @@
+General strategy/tactics:
+- Skim through the questions quickly
+- Read the question, think, re-read
+- Smash out a shitty first draft of your answer.
+- Answer using nested bullet point style because it...
+    - Simplifies your sentence structure
+    - Easy to edit, in case you need to change order, made a mistake and need to rework specific parts, etc.
+    - Faster
+    - Easier for marker to give you part marks for what you know
+    - **Highly effective for online**, but I think you can get the same benefits **on-paper** by using an ordered list and just crossing out, changing order number etc, I think you can do it in such a way that the marker will understand what you're going for. Just preface your answer with that you're using an ordered list
+- **Only** look at notes after you exhaust what's in your head.
+- Once you exceed the time budget for a particular question (`marks * total marks / (time - time to revise answers)`), move on to the next question
+    - If you are disciplined with this, you will answer more questions, and have time at the end to come back and add to your answers faster
