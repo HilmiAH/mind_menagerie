@@ -1,0 +1,25 @@
+- Classical ciphers
+- Attack Classification
+- Network Attacks
+- Buffer overflow
+	- memory layout of stack
+	- prevention
+- SQLi
+- XSS
+	- Stored
+	- Reflected
+- Defense mechanisms
+	- Security protocols
+		- [[SSL]]/TLS
+		- [[IPSec]] Modes
+	- Vulnerability scanning
+	- Sandboxing
+	- Steganography
+	- Moving target defense
+- [[Security Management]]
+- Security Standards
+	- ISO27001
+- Software Lifecycle
+	- MS SDL
+- Engineering requirements
+- The cloud

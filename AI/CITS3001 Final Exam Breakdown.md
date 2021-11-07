@@ -10,16 +10,18 @@
 - 1 page of double-sided A4 of notes and calculators permitted.
 - [Past Papers where you can comment and share your answers](https://drive.google.com/drive/folders/1J6Hsa4JnHTJ2zyrXxqU9CMQ3JUZYhjWa?usp=sharing)
 - Past papers demonstrate *style* of questions. **BUT** since we have notes, the questions will be less recall and more open-ended.
-- Topics cover lecture material in 206/2017 (not sure if this is absolutely true or a bait).
+- Topics cover lecture material in 2016/2017 (not sure if this is absolutely true or a bait).
 - ***Previous exams reviewed in workshop of Week 12*** (attempt first)
-![[Exam Strats]]
+
+![[Exam Strats|## Exam Strats]]
+
 ## Exam Problems Breakdown
 Knowing what kind of questions will be asked and how to answer them is half the battle.
 
 Types of questions (mainly based on 2018/19 exams):
 - ~~String Algorithms~~
 	- Cut content in CITS3001 2021
-- Definitions
+- ~~Definitions~~
 	- Definition questions such as Q1 2019 will not be in the 2021 exam as double-sided A4 notes are allowed.
 		- So I think the format will be closer to 2018/19 exams minus the Definition section, and **not** like 2016/17 because of how many *define* and *describe* type questions they have.
 	- ***or maybe they will???***
