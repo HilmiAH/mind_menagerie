@@ -301,5 +301,51 @@ Moving Target Defense (MTD)
 		- ineffective against conf. and int. attacks
 		- increasing redundancy has diminishing returns on availability
 # 9. Security Management
+ISMS: info sec mgmt system
+ISO27001 (top-down)
+1. Define info sec policy (set of sec pols to follow)
+2. Define scope of ISMS (threats to mitigate, sec objs. to satisfy)
+3. Perform risk assess. for scope of ISMS
+	- threats x risks x impacts x vulns = RA document
+4.  Mgmt decision for identified risks
+	- delegate tasks, accountabilities and responsibilities
+5. select objectives and controls (produce Statement of Applicability SoA - explains (un)selected controls and impl. progress)
+7. control implementation (impl. SoA)
+8. cert. assessment (audit process steps if complete and identified risks mitigated)
+9. Pass? ISO27001 Cert granted
+10. Passn't? Revisit incomplete process steps
+
+NIST SP800-30 (bottom-up)
+1. System characterization
+	- Input: hard/software, system interfaces, data, people, mission
+	- Output: system; boundary, functions, data criticality/sensitivity
+2. Threat Ident.
+	- Input: attack history, intelligence data
+	- Output: threat statement
+3. Vuln. Ident.
+	- Input: prior risk assessment reports, audit comments, sec reqs., sec test results
+	- Output: potential vulns
+4. Control analysis
+	- Input:
+	- Output:
+5. Likelihood determination
+	- Input:
+	- Output:
+6. Impact analysis
+	- Input:
+	- Output:
+7. Risk determination
+	- Input:
+	- Output:
+8. Control recommendation
+	- Input:
+	- Output:
+9. Results documentation
+	- Input:
+	- Output:
+
 # 10. Secure Software
+Secure Software Dev.
+MS SDL
+
 # 11. (OPTIONAL) Emerging Security Issues 
